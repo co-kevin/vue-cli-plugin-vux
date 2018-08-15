@@ -20,10 +20,5 @@
   "bugs": {
     "url": "https://github.com/hookszhang/vue-cli-plugin-vux/issues"
   },
-  "homepage": "https://github.com/hookszhang/vue-cli-plugin-vux#readme",
-  "dependencies": {
-    "less": "^3.8.1",
-    "less-loader": "^4.1.0",
-    "vux": "^2.9.2"
-  }
+  "homepage": "https://github.com/hookszhang/vue-cli-plugin-vux#readme"
 }
