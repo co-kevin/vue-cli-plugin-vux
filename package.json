@@ -1,0 +1,24 @@
+{
+  "name": "vue-cli-plugin-vux",
+  "version": "3.0.0",
+  "description": "Vux plugin for vue-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hookszhang/vue-cli-plugin-vux.git"
+  },
+  "keywords": [
+    "vue",
+    "cli",
+    "vux"
+  ],
+  "author": "Hooks Zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hookszhang/vue-cli-plugin-vux/issues"
+  },
+  "homepage": "https://github.com/hookszhang/vue-cli-plugin-vux#readme"
+}
