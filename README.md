@@ -23,7 +23,7 @@ $ vue add vux
 
 ## [vux-loader Issues: [Feature Request] 是否支持新的vue/cli@3.0](https://github.com/airyland/vux-loader/issues/66)
 
-vux-loader 会和 vue-loader@15.x.x 冲突，会出现下面的 Error，需要降级 vue-loader 方可使用，本插件已做处理✅
+vux-loader 会和 vue-loader@15.x.x 冲突，会出现下面的 Error，需要降级 vue-loader 方可使用，本插件已做处理✅
 
 ```
 ERROR  Failed to compile with 1 errors                                                                                                                                      14:39:47
